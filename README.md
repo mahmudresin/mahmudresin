@@ -1,9 +1,4 @@
-
-
-<!--
-**mahmudresin/mahmudresin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are# Hi there, I'm Yeamin Mahmud 👋
+# Hi there, I'm Yeamin Mahmud 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yeamin-mahmud-resin-a10b01374)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://yeaminmahmudres.vercel.app)
@@ -11,7 +6,7 @@ Here are# Hi there, I'm Yeamin Mahmud 👋
 
 ## 🎓 About Me
 
-I'm a **Computer Science graduate** specializing in **Quantum Machine Learning** and **Software Development**, currently pursuing my **MSc in Computer Science & Engineering** with a specialization in **Data Science** at **BRAC University**.
+I'm a **Computer Science graduate** specializing in **Quantum Machine Learning** and **Software Development**, currently pursuing my **MSc in Computer Science & Engineering** with a specialization in **Data Science** at **Brac University**.
 
 - 🔬 Research background from North South University's **DIAL Lab**
 - 🚀 Currently working as a **Software Engineer** at **SMC Labs BD Ltd.**
@@ -70,8 +65,8 @@ I'm a **Computer Science graduate** specializing in **Quantum Machine Learning**
 
 ### 🌌 [A14MARS - Quantum Neural Networks for Mars Classification](https://github.com/mahmudresin)
 Developed quantum neural network models for Martian surface analysis
-- ✨ **81% classification accuracy** on Mars surface features
-- ⚡ **9% performance improvement** over classical approaches
+- ✨ **85% classification accuracy** on Mars surface features
+- ⚡ **23% performance improvement** over classical approaches
 - 🎯 Implemented variational quantum classifier and quantum transfer learning
 
 ### ⌚ Multi-Sensor Wearable Health Watch
@@ -108,10 +103,14 @@ AI-powered poker game with advanced algorithms
 ## 📫 Get In Touch
 
 - 💼 LinkedIn: [Yeamin Mahmud Resin](https://linkedin.com/in/yeamin-mahmud-resin-a10b01374)
+- 🌐 Portfolio: [yeaminmahmudres.vercel.app](https://yeaminmahmudres.vercel.app)
 - 📧 Email: yeaminmahmudres@gmail.com
+- 📱 Phone: +880 1405314238
+- 📍 Location: Mirpur DOHS, Dhaka, Bangladesh
 
 ## 💡 Currently
-- 🎓 Pursuing **MSc in Computer Science & Engineering (Data Science Specialization)** at BRAC University
+
+- 🎓 Pursuing **MSc in Computer Science & Engineering (Data Science Specialization)** at Brac University
 - 💻 Working on blockchain wallet infrastructure and quantum machine learning projects
 - 📚 Exploring advanced data science techniques and distributed systems
 - 🤝 Open to collaboration on quantum computing and AI/ML projects
@@ -120,14 +119,4 @@ AI-powered poker game with advanced algorithms
 
 <div align="center">
   <i>⭐️ From <a href="https://github.com/mahmudresin">mahmudresin</a></i>
-</div> some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
