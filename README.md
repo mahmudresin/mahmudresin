@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yeamin%20Mahmud&fontSize=50&fontColor=e94560&fontAlignY=38&desc=Software%20Engineer%20%7C%20Quantum%20ML%20Researcher%20%7C%20Blockchain%20Developer&descAlignY=58&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yeamin%20Mahmud&fontSize=50&fontColor=c9d1d9&fontAlignY=38&desc=Software%20Engineer%20%7C%20Quantum%20ML%20Researcher%20%7C%20Blockchain%20Developer&descAlignY=58&descSize=16&descColor=8b949e" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=560&lines=MSc+Data+Science+%40+BRAC+University;Software+Engineer+%40+SMC+Labs+BD;Quantum+Neural+Network+Researcher;Blockchain+Infrastructure+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8b949e&center=true&vCenter=true&width=560&lines=MSc+Data+Science+%40+BRAC+University;Software+Engineer+%40+SMC+Labs+BD;Quantum+Neural+Network+Researcher;Blockchain+Infrastructure+Developer)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeamin-mahmud-resin-a10b01374)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23e94560.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yeaminmahmudres.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236e7681.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yeaminmahmudres.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeaminmahmudres@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yeaminmahmudres&style=flat-square&color=e94560&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=yeaminmahmudres&style=flat-square&color=8b949e&label=Profile+Views)
 
 </div>
 
