@@ -1,166 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yeamin%20Mahmud&fontSize=50&fontColor=c9d1d9&fontAlignY=38&desc=Software%20Engineer%20%7C%20Quantum%20ML%20Researcher%20%7C%20Blockchain%20Developer&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0a0a1a,70:0f1a35,100:0d2137&height=280&section=header&text=YEAMIN%20MAHMUD&fontSize=62&fontColor=e2e8f0&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Quantum%20ML%20Researcher%20%E2%80%A2%20Founder%20of%20SLYTHZ%20LABS&descAlignY=60&descSize=15&descColor=64748b&animation=twinkling" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8b949e&center=true&vCenter=true&width=560&lines=MSc+Data+Science+%40+BRAC+University;Software+Engineer+%40+SMC+Labs+BD;Quantum+Neural+Network+Researcher;Blockchain+Infrastructure+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38bdf8&center=true&vCenter=true&width=600&lines=MSc+Data+Science+%E2%86%92+BRAC+University;Software+Engineer+%E2%86%92+SMC+Labs+BD+Ltd.;Founder+%26+Lead+Engineer+%E2%86%92+SLYTHZ+LABS;Quantum+Neural+Network+Researcher;Blockchain+Infrastructure+Architect)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeamin-mahmud-resin-a10b01374)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236e7681.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yeaminmahmudres.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeaminmahmudres@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yeaminmahmudres&style=flat-square&color=8b949e&label=Profile+Views)
+<a href="https://linkedin.com/in/yeamin-mahmud-resin-a10b01374"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2" /></a>
+&nbsp;
+<a href="https://yeaminmahmudres.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=0f172a" /></a>
+&nbsp;
+<a href="mailto:yeaminmahmudres@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=ea4335" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=yeaminmahmudres&style=flat-square&color=38bdf8&label=Views&labelColor=0f172a" />
 
 </div>
 
----
+<br/>
 
-## ⚡ About Me
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     IDENTITY.init()                                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ```python
 class YeaminMahmud:
-    def __init__(self):
-        self.name       = "Yeamin Mahmud"
-        self.location   = "Dhaka, Bangladesh 🇧🇩"
-        self.education  = "MSc CSE (Data Science) — BRAC University"
-        self.role       = "Software Engineer @ SMC Labs BD Ltd."
-        self.interests  = [
-            "Quantum Machine Learning",
-            "Blockchain Technology",
-            "Data Science & Analytics",
-            "AI Research",
-        ]
 
-    def current_focus(self):
-        return {
-            "research"    : "Quantum Neural Networks for classification tasks",
-            "engineering" : "Blockchain wallet infrastructure",
-            "learning"    : "Advanced ML & distributed systems",
-        }
+    identity = {
+        "name"      : "Yeamin Mahmud",
+        "location"  : "Dhaka, Bangladesh 🇧🇩",
+        "education" : "MSc CSE (Data Science) — BRAC University",
+    }
+
+    roles = [
+        "Software Engineer      →  SMC Labs BD Ltd.",
+        "Founder & Lead Eng.    →  SLYTHZ LABS",          # ◀ building something different
+        "Researcher             →  Quantum ML",
+    ]
+
+    stack = {
+        "languages"      : ["Python", "C++", "JavaScript"],
+        "ml_frameworks"  : ["TensorFlow", "PyTorch", "TF-Quantum", "Cirq"],
+        "backend"        : ["Django", "FastAPI"],
+        "infra"          : ["Docker", "PostgreSQL", "Linux"],
+        "frontier"       : ["Quantum Computing", "Blockchain / Web3"],
+    }
+
+    def mission(self):
+        return "Bridging quantum computing with modern ML — one circuit at a time."
 ```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**ML / Quantum / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Infrastructure & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Quantum Mars Surface Classifier
-Implemented Quantum Neural Networks using **TensorFlow Quantum** for Mars terrain classification, achieving competitive accuracy against classical approaches.
-
-`TensorFlow Quantum` `Cirq` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Wearable Health Monitoring System
-IoT-based health monitoring device using multiple biosensors for real-time physiological data collection and analysis.
-
-`Arduino` `C++` `IoT Protocols`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain Wallet Infrastructure
-Building core wallet infrastructure with distributed protocols and cryptographic security features at production scale.
-
-`Blockchain` `Web3` `Cryptography`
-
-</td>
-<td width="50%" valign="top">
-
-### ♟️ AI Poker Decision System
-Game theory-based decision engine using the **Expectiminimax** algorithm for optimal strategic gameplay under uncertainty.
-
-`Python` `Game Theory` `AI`
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeaminmahmudres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminmahmudres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeaminmahmudres&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
+
+## `// SLYTHZ LABS`
+
+<div align="center">
+
+> **Founded & led by Yeamin Mahmud** — SLYTHZ LABS is an independent engineering & research lab focused on cutting-edge infrastructure, experimental AI systems, and blockchain tooling. Built from the ground up with a vision to push beyond conventional software boundaries.
+
+`⚗️ Research-First` &nbsp;&nbsp; `🔐 Security-Focused` &nbsp;&nbsp; `⛓️ Blockchain-Native` &nbsp;&nbsp; `🧠 AI-Driven`
 
 </div>
 
 ---
 
-## 🎓 Certifications
+## `// TECH_STACK`
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | ✅ Status |
-|:---|:---|:---|
-| Machine Learning Specialization | Coursera | Completed |
-| IBM Quantum Computing | IBM | Completed |
+**— Languages & Frameworks —**
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f0db4f)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44b78b)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+**— ML · Quantum · Data —**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=e70488)
+
+**— Infrastructure & Tools —**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Arduino](https://img.shields.io/badge/Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 </div>
 
 ---
 
-## 🔭 Research
+## `// PROJECTS`
 
-> **Quantum Machine Learning** — Ongoing thesis exploring quantum neural networks for classification problems, investigating potential advantages over classical deep learning architectures.
+<div align="center">
+
+| ◈ | Project | Stack | Description |
+|:---:|:---|:---|:---|
+| 🔬 | **Quantum Mars Surface Classifier** | `TF-Quantum` `Cirq` `Python` | QNN-based terrain classification outpacing classical baselines |
+| ⛓️ | **Blockchain Wallet Infrastructure** | `Web3` `Cryptography` `Blockchain` | Production-grade distributed wallet with cryptographic security |
+| 🩺 | **Wearable Health Monitor** | `Arduino` `C++` `IoT` | Real-time biosensor fusion for physiological data streams |
+| ♟️ | **AI Poker Decision Engine** | `Python` `Game Theory` `AI` | Expectiminimax-driven optimal strategy under uncertainty |
+
+</div>
+
+---
+
+## `// GITHUB_STATS`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yeaminmahmudres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&border_radius=10" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeaminmahmudres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_radius=10" />
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yeaminmahmudres&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `// CREDENTIALS`
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | Status |
+|:---|:---|:---:|
+| Machine Learning Specialization | Coursera | ✅ |
+| IBM Quantum Computing | IBM | ✅ |
+
+</div>
+
+---
+
+## `// RESEARCH`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  THESIS   Quantum Neural Networks for Classification Tasks          │
+│  STATUS   Active Research                                           │
+│  FOCUS    QNN vs classical deep learning — performance & advantage  │
+│  TOOLS    TensorFlow Quantum · Cirq · Variational Circuits          │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&fontColor=e94560" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d2137,50:0f1a35,100:0d0d0d&height=140&section=footer&fontColor=38bdf8" />
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 yeaminmahmudres@gmail.com &nbsp;|&nbsp; 📱 +880 1405314238
+`📍 Dhaka, Bangladesh` &nbsp;·&nbsp; `📧 yeaminmahmudres@gmail.com` &nbsp;·&nbsp; `📱 +880 1405314238`
+
+<br/>
 
 *"The intersection of quantum computing and machine learning is where the next frontier lies."*
+
+<br/>
+
+**[SLYTHZ LABS](https://yeaminmahmudres.vercel.app)** — *Engineering the edge.*
 
 </div>
